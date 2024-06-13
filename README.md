@@ -31,14 +31,12 @@ This project is a simple ATM (Automated Teller Machine) system implemented in Ja
 
 1. Compile the Java file:
 
-   bash
-   javac atmclass.java
-   
+** javac atmclass.java **
 
 2. Run the ATM system:
 
-   bash
-   java atmclass
+ 
+  ** java atmclass**
    
 
 3. Follow the on-screen instructions to perform transactions.
